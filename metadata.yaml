@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '7277'
     url: http://www.gutenberg.org/2009/agents/7277
 description: France from Celtic times to 1871.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17287#History-of-France
 gutenberg_bookshelf:
 - France
 - Children's History
